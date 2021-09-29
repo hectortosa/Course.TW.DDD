@@ -1,0 +1,12 @@
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/bin/Debug/net5.0/Shop.Domain.deps.json
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/bin/Debug/net5.0/Shop.Domain.dll
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/bin/Debug/net5.0/ref/Shop.Domain.dll
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/bin/Debug/net5.0/Shop.Domain.pdb
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/obj/Debug/net5.0/Shop.Domain.csproj.AssemblyReference.cache
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/obj/Debug/net5.0/Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/obj/Debug/net5.0/Shop.Domain.AssemblyInfoInputs.cache
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/obj/Debug/net5.0/Shop.Domain.AssemblyInfo.cs
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/obj/Debug/net5.0/Shop.Domain.csproj.CoreCompileInputs.cache
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/obj/Debug/net5.0/Shop.Domain.dll
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/obj/Debug/net5.0/ref/Shop.Domain.dll
+/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/obj/Debug/net5.0/Shop.Domain.pdb
