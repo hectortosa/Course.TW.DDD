@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aNWzsI6sKK0j4IJqEbz1bAy6da7Zy2db86Pw04ZhdkfdycYBPhWT9uFuzmEjA1ymrSIjC0nDtw6ymvdFRjPaew==",
+  "dgSpecHash": "+cPjIiKUT0ERBTGCuZSdj2iH8SVXQxrQ4wuYrTi8pLgGBi84L/VYjhYj2kh0ySFbVCQ9teNa6zsu6/Pe4uMqHA==",
   "success": true,
-  "projectFilePath": "/Users/hector.tortosa/dev/courses/ddd/Shop.Tests/Shop.Tests.csproj",
+  "projectFilePath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Tests/Shop.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/hector.tortosa/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/hector.tortosa/.nuget/packages/microsoft.codecoverage/16.9.4/microsoft.codecoverage.16.9.4.nupkg.sha512",

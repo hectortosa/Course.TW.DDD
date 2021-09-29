@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hector.tortosa/dev/courses/ddd/Shop/Shop.csproj",
+      "projectUniqueName": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop/Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "/Users/hector.tortosa/dev/courses/ddd/Shop/Shop.csproj",
+      "projectPath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop/Shop.csproj",
       "packagesPath": "/Users/hector.tortosa/.nuget/packages/",
-      "outputPath": "/Users/hector.tortosa/dev/courses/ddd/Shop/obj/",
+      "outputPath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hector.tortosa/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/Shop.Domain.csproj": {
-              "projectPath": "/Users/hector.tortosa/dev/courses/ddd/Shop.Domain/Shop.Domain.csproj"
+            "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/Shop.Domain.csproj": {
+              "projectPath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/Shop.Domain.csproj"
             }
           }
         }

@@ -11,7 +11,7 @@ namespace Shop.Tests
         {
             Cart cart = new Cart();
             cart.AddProduct(new Product{ Name = "iPad Pro"});
-            Assert.True(cart.Products.Count > 0);
+            Assert.True(cart.CartItems.Count > 0);
         }
 
         [Fact]
@@ -19,7 +19,25 @@ namespace Shop.Tests
         {
             Cart cart = new Cart();
             cart.AddProduct(new Product{ Name = "Hero Ink Pen"});
-            Assert.Equal("Hero Ink Pen", cart.Products[0].Name);
+            Assert.Equal("Hero Ink Pen", cart.CartItems[0].Product.Name);
+        }
+
+        [Fact]
+        public void EmptyCart_AddProductHeroInkPenWithQuantity2_CartHasItInProductsTwice()
+        {
+            Cart cart = new Cart();
+            cart.AddProduct(new Product{ Name = "Hero Ink Pen"}, 2);
+            Assert.Equal(2, cart.CartItems[0].Quantity);
+        }
+
+        [Fact]
+        public void CartWithOneProduct_RemoveProduct_CartEmpty()
+        {
+            Cart cart = new Cart();
+            Product product = new Product(){ Name = "Hero Ink Pen"};
+            cart.AddProduct(product, 2);
+            cart.RemoveProduct(product);
+            Assert.True(cart.CartItems.Count == 0);
         }
     }
 }

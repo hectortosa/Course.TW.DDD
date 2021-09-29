@@ -1,20 +1,21 @@
-using System;
 using System.Collections.Generic;
 
 namespace Shop.Domain
 {
     public class Cart
     {
-        public List<Product> Products { get; set; }
+        public List<CartItem> CartItems { get; set; }
+        //Creo que ya están listos, pero no puedo lanzar la consola para los tests
+        public Cart() => CartItems = new List<CartItem>();
 
-        public Cart()
+        public void AddProduct(Product product, int quantity = 1)
         {
-            Products = new List<Product>();
+            CartItems.Add(new CartItem { Product = product, Quantity = quantity });
         }
 
-        public void AddProduct(Product product)
+        public void RemoveProduct(Product product)
         {
-            Products.Add(product);
+            CartItems.RemoveAll(item => item.Product.Name == product.Name);
         }
     }
 }
