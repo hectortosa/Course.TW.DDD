@@ -47,8 +47,18 @@ namespace Shop.Tests
             Product product = new Product(){ Name = "Hero Ink Pen"};
             cart.AddProduct(product, 2);
             cart.RemoveProduct(product);
-            Console.WriteLine("COunt: "+ cart.RemovedCartItems.Count);
-            Assert.True(cart.RemovedCartItems.Count == 1);
+            Assert.True(cart.DomainEvents.Count == 1);
+        }
+
+        [Fact]
+        public void TwoCartWithSameProduct_RemoveProduct_CartHasRemovedItem()
+        {
+            Cart cart1 = new Cart(){CartId = 1};
+            Cart cart2 = new Cart(){CartId = 2};
+            Product product = new Product(){ Name = "Hero Ink Pen"};
+            cart1.AddProduct(product);
+            cart2.AddProduct(product);
+            Assert.False(cart1.equals(cart2));
         }
     }
 }
