@@ -5933,19 +5933,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/hector.tortosa/.nuget/packages/": {}
+    "/Users/opereiro/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Tests/Shop.Tests.csproj",
+      "projectUniqueName": "/Users/opereiro/Course.TW.DDD/Shop.Tests/Shop.Tests.csproj",
       "projectName": "Shop.Tests",
-      "projectPath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Tests/Shop.Tests.csproj",
-      "packagesPath": "/Users/hector.tortosa/.nuget/packages/",
-      "outputPath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Tests/obj/",
+      "projectPath": "/Users/opereiro/Course.TW.DDD/Shop.Tests/Shop.Tests.csproj",
+      "packagesPath": "/Users/opereiro/.nuget/packages/",
+      "outputPath": "/Users/opereiro/Course.TW.DDD/Shop.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/hector.tortosa/.nuget/NuGet/NuGet.Config"
+        "/Users/opereiro/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5957,8 +5957,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/Shop.Domain.csproj": {
-              "projectPath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/Shop.Domain.csproj"
+            "/Users/opereiro/Course.TW.DDD/Shop.Domain/Shop.Domain.csproj": {
+              "projectPath": "/Users/opereiro/Course.TW.DDD/Shop.Domain/Shop.Domain.csproj"
             }
           }
         }
