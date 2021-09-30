@@ -4,9 +4,11 @@ namespace Shop.Domain
 {
     public class Cart
     {
+        public int CartId {get;set;}
         public List<CartItem> CartItems { get; set; }
-        //Creo que ya están listos, pero no puedo lanzar la consola para los tests
-        public Cart() => CartItems = new List<CartItem>();
+        public List<DomainEvent> DomainEvents { get; set; }
+        public Cart() {CartItems = new List<CartItem>();
+        DomainEvents= new List<DomainEvent>();}
 
         public void AddProduct(Product product, int quantity = 1)
         {
@@ -16,6 +18,7 @@ namespace Shop.Domain
         public void RemoveProduct(Product product)
         {
             CartItems.RemoveAll(item => item.Product.Name == product.Name);
+            DomainEvents.Add(new DomainEvent { Name = product.Name, Type = "Remove"});
         }
     }
 }

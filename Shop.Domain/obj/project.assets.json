@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/hector.tortosa/.nuget/packages/": {}
+    "/Users/opereiro/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/Shop.Domain.csproj",
+      "projectUniqueName": "/Users/opereiro/Course.TW.DDD/Shop.Domain/Shop.Domain.csproj",
       "projectName": "Shop.Domain",
-      "projectPath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/Shop.Domain.csproj",
-      "packagesPath": "/Users/hector.tortosa/.nuget/packages/",
-      "outputPath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/obj/",
+      "projectPath": "/Users/opereiro/Course.TW.DDD/Shop.Domain/Shop.Domain.csproj",
+      "packagesPath": "/Users/opereiro/.nuget/packages/",
+      "outputPath": "/Users/opereiro/Course.TW.DDD/Shop.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/hector.tortosa/.nuget/NuGet/NuGet.Config"
+        "/Users/opereiro/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

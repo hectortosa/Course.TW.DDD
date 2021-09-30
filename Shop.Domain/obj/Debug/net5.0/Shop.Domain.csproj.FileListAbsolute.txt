@@ -22,3 +22,15 @@
 /Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/obj/Debug/net5.0/Shop.Domain.dll
 /Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/obj/Debug/net5.0/ref/Shop.Domain.dll
 /Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/obj/Debug/net5.0/Shop.Domain.pdb
+/Users/opereiro/Course.TW.DDD/Shop.Domain/bin/Debug/net5.0/Shop.Domain.deps.json
+/Users/opereiro/Course.TW.DDD/Shop.Domain/bin/Debug/net5.0/Shop.Domain.dll
+/Users/opereiro/Course.TW.DDD/Shop.Domain/bin/Debug/net5.0/ref/Shop.Domain.dll
+/Users/opereiro/Course.TW.DDD/Shop.Domain/bin/Debug/net5.0/Shop.Domain.pdb
+/Users/opereiro/Course.TW.DDD/Shop.Domain/obj/Debug/net5.0/Shop.Domain.csproj.AssemblyReference.cache
+/Users/opereiro/Course.TW.DDD/Shop.Domain/obj/Debug/net5.0/Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/opereiro/Course.TW.DDD/Shop.Domain/obj/Debug/net5.0/Shop.Domain.AssemblyInfoInputs.cache
+/Users/opereiro/Course.TW.DDD/Shop.Domain/obj/Debug/net5.0/Shop.Domain.AssemblyInfo.cs
+/Users/opereiro/Course.TW.DDD/Shop.Domain/obj/Debug/net5.0/Shop.Domain.csproj.CoreCompileInputs.cache
+/Users/opereiro/Course.TW.DDD/Shop.Domain/obj/Debug/net5.0/Shop.Domain.dll
+/Users/opereiro/Course.TW.DDD/Shop.Domain/obj/Debug/net5.0/ref/Shop.Domain.dll
+/Users/opereiro/Course.TW.DDD/Shop.Domain/obj/Debug/net5.0/Shop.Domain.pdb

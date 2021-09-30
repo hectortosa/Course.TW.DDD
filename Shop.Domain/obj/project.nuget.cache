@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bb3Y3/nv2tyA2x0Ws6HfNywbGg1I322esH2Mrn6BtdArdab1IdeR+INh1gCBW2f+iTSKDch0+zrZZ2dB8ECt3Q==",
+  "dgSpecHash": "CRGGiBrZ8YS99gTY9qMu0HuvO4ip8qGTZhnb4lxOAe4we2j/HR82w7EhPPClkXGqDHmCMlhm9Np/MG3iXUV7NQ==",
   "success": true,
-  "projectFilePath": "/Users/hector.tortosa/dev/courses/TW.DomainDrivenDesign/Shop.Domain/Shop.Domain.csproj",
+  "projectFilePath": "/Users/opereiro/Course.TW.DDD/Shop.Domain/Shop.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
